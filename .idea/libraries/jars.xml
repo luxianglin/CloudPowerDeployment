@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars/cloudsim-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/cloudsim-examples-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/javabuilder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/TwoDrawPlot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jswarm-pso_2_08.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/FourDrawPlot.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/jars/jswarm-pso_2_08.jar!/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/jars/jswarm-pso_2_08.jar!/" />
+    </SOURCES>
+  </library>
+</component>
