@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fec6657-96e1-434e-87a2-31d010bbfffd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2018_10_15__10_28_AM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerDeployment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PowerDeployment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/newcloud/ExceuteData/PSOScheduleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/newcloud/Test/CPUUtilizationCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/newcloud/Test/CPUUtilizationCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/newcloud/datacenter/PowerDatacenterPSO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/newcloud/policy/VmAllocationAssignerPSO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/newcloud/pso/PSO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/newcloud/pso/SchedulerFitnessFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/newcloud/pso/SchedulerParticle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/newcloud/pso/SchedulerParticleUpdate.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7fec6657-96e1-434e-87a2-31d010bbfffd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="G:\IdeaProjects\PowerDeployment\.idea\shelf/" />
@@ -45,7 +33,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/newcloud/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="253">
               <caret line="66" column="115" selection-start-line="66" selection-start-column="115" selection-end-line="66" selection-end-column="115" />
             </state>
           </provider>
@@ -428,7 +416,7 @@
       <workItem from="1543909390655" duration="1292000" />
       <workItem from="1546834981610" duration="1983000" />
       <workItem from="1547167773169" duration="50000" />
-      <workItem from="1554983073530" duration="164000" />
+      <workItem from="1554983073530" duration="903000" />
     </task>
     <task id="LOCAL-00001" summary="增加了任务比较和物理机分配详情的实验">
       <created>1534407295365</created>
@@ -441,7 +429,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64150000" />
+    <option name="totallyTimeSpent" value="64889000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -453,8 +441,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="23" width="1229" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="271" y="23" width="1229" height="877" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31676495" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -468,12 +455,12 @@
       <window_info anchor="bottom" id="JRebel Executor" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32866243" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49957877" weight="0.3477707" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49957877" visible="true" weight="0.3477707" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5004212" side_tool="true" weight="0.3299363" />
@@ -820,7 +807,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/newcloud/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
+        <state relative-caret-position="253">
           <caret line="66" column="115" selection-start-line="66" selection-start-column="115" selection-end-line="66" selection-end-column="115" />
         </state>
       </provider>
