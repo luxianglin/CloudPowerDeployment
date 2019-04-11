@@ -5,3 +5,11 @@
 相应论文：《基于强化学习下一种能耗优化的虚拟机放置策略》
 
 注意：实验中的图表是用matlab画出的，因此如果希望实验自动生成相应折线图则需要安装matlab。
+
+<img src="https://github.com/luxianglin/CloudPowerDeployment/blob/master/1.png" width="600" height="450" />
+
+<img src="https://github.com/luxianglin/CloudPowerDeployment/blob/master/2.png" width="600" height="450" />
+
+<img src="https://github.com/luxianglin/CloudPowerDeployment/blob/master/3.png" width="600" height="450" />
+
+<img src="https://github.com/luxianglin/CloudPowerDeployment/blob/master/4.png" width="600" height="450" />
